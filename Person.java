@@ -18,7 +18,7 @@ public class Person{
 	}
 	
 	//main method
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		Person p1 = new Person(20, "Shubhangi");
 		Person p2 = new Person(20, "Sanjana");
 		Person p3 = new Person(20, "Vaishnavi");
