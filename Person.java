@@ -10,10 +10,10 @@ public class Person{
 
 	public void drive(){
 		if  (age < 18) {
-			System.out.println("Can Drive");
+			System.out.println("Can Draw");
 		}
 		else {
-			System.out.println("Learn Driving");
+			System.out.println("Learn Drawing");
 		}
 	}
 	
